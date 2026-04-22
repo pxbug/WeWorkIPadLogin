@@ -1,0 +1,9 @@
+Package: com.goauth.hook.weworkipadlogin
+Name: WeWorkIPadLogin
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: iPhone伪装iPad登录
+Maintainer: clozhi
+Author: clozhi
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
